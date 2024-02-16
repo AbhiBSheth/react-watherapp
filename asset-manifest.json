@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-watherapp/static/css/main.6c768156.css",
+    "main.js": "/react-watherapp/static/js/main.ad2cb96d.js",
+    "static/js/592.b06ea1f9.chunk.js": "/react-watherapp/static/js/592.b06ea1f9.chunk.js",
+    "static/media/cloud.png": "/react-watherapp/static/media/cloud.20f353f873a9b27949a9.png",
+    "index.html": "/react-watherapp/index.html",
+    "main.6c768156.css.map": "/react-watherapp/static/css/main.6c768156.css.map",
+    "main.ad2cb96d.js.map": "/react-watherapp/static/js/main.ad2cb96d.js.map",
+    "592.b06ea1f9.chunk.js.map": "/react-watherapp/static/js/592.b06ea1f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c768156.css",
+    "static/js/main.ad2cb96d.js"
+  ]
+}
